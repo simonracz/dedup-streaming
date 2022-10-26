@@ -21,6 +21,8 @@ g++ -std=c++17 -Wall -Wextra -O2 -march=native -mtune=native -I./ -o dedup3 ./de
 
 # Links
 [FIPS 180-4](https://csrc.nist.gov/publications/detail/fips/180/4/final)
+
 [Intel SHA Extensions](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sha-extensions.html)
+
 [FLO-SHANI-AESNI](https://github.com/armfazh/flo-shani-aesni)
 
